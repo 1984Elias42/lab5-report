@@ -1,6 +1,7 @@
 # Lab report 5
 ## Researching Commands
-I will choose the command less and give 8 examples of it.\
+In lab3, I did some exploration in command __grep__ and give 8 examples of this command. Now I will keep my exploration on another command in lab5.
+I will choose the command __less__ and give 8 examples of it.\
 Before I use the less command, I will use __find written_2/ > find-results.txt__ to get the list files and directories inside the directory __written_2__ in a txt file called __find-results__.\
 # Command-line operation 1:
 Then I will use my first less-line command on the directory __written2__ which is __less find-results.txt__, this command will display all files' name in find-results.txt. And the command screen will be full of these lines, we can use q to back to normal screen:
